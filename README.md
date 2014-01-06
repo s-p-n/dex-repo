@@ -18,6 +18,9 @@ NPM Modules required:
 
 Installation:
 =============
+Important Note: There is no reason to install this module, other than to look through the source code- which you can do on github more easily, anyway. In the future, we may make dex-repo a useful module (no guarentees).
+
 From the command-line:
 
 	npm install dex-repo
+
